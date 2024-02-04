@@ -9,7 +9,10 @@
 <img src="project screenshots/6.png" alt="drawing"/>
 <img src="project screenshots/7.png" alt="drawing"/>
 <img src="project screenshots/8.png" alt="drawing"/>
-
+<img src="project screenshots/9.png" alt="drawing"/>
+<img src="project screenshots/10.png" alt="drawing"/>
+<img src="project screenshots/11.png" alt="drawing"/>
+<img src="project screenshots/12.png" alt="drawing"/>
 
 
 # deployed app:
