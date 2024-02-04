@@ -39,7 +39,7 @@ Enjoy the convenience of paying for your order upon delivery. No need for online
 <img src="project screenshots/12.png" alt="drawing"/>
 
 
-# deployed app:
+# Deployed App:
 https://reactjs-fast-react-pizza.netlify.app/
 
 # React + Vite
