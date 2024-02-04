@@ -1,3 +1,17 @@
+# project description
+
+<p align="center">
+<img src="1.png" alt="drawing" width="200" height=300 />
+<img src="2.png" alt="drawing" width="200" height=300 />
+<img src="3.png" alt="drawing" width="200" height=300 />
+<img src="4.png" alt="drawing" width="200" height=300 />
+<img src="5.png" alt="drawing" width="200" height=300 />
+<img src="6.png" alt="drawing" width="200" height=300 />
+<img src="7.png" alt="drawing" width="200" height=300 />
+<img src="8.png" alt="drawing" width="200" height=300 />
+</p>
+
+
 # deployed app:
 https://reactjs-fast-react-pizza.netlify.app/
 
