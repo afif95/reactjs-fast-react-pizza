@@ -1,14 +1,14 @@
 # project description
 
 
-<img src="project screenshots/1.png" alt="drawing" width="200" height=300 />
-<img src="project screenshots/2.png" alt="drawing" width="200" height=300 />
-<img src="project screenshots/3.png" alt="drawing" width="200" height=300 />
-<img src="project screenshots/4.png" alt="drawing" width="200" height=300 />
-<img src="project screenshots/5.png" alt="drawing" width="200" height=300 />
-<img src="project screenshots/6.png" alt="drawing" width="200" height=300 />
-<img src="project screenshots/7.png" alt="drawing" width="200" height=300 />
-<img src="project screenshots/8.png" alt="drawing" width="200" height=300 />
+<img src="project screenshots/1.png" alt="drawing"/>
+<img src="project screenshots/2.png" alt="drawing"/>
+<img src="project screenshots/3.png" alt="drawing"/>
+<img src="project screenshots/4.png" alt="drawing"/>
+<img src="project screenshots/5.png" alt="drawing"/>
+<img src="project screenshots/6.png" alt="drawing"/>
+<img src="project screenshots/7.png" alt="drawing"/>
+<img src="project screenshots/8.png" alt="drawing"/>
 
 
 
