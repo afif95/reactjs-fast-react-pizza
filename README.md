@@ -1,5 +1,23 @@
-# project description
+## project description
+#Pizza Ordering Application
+Welcome to a user-friendly Pizza Ordering Application! This application is built with React, Tailwind CSS, React Router, Redux, Redux Toolkit, and Thunks, providing a seamless experience for users to order delicious pizzas.
 
+Features
+# Dynamic Menu
+The application fetches a dynamic menu from an API, ensuring that users have access to an up-to-date list of available pizzas.
+# GPS Location for Delivery
+Integrated GPS location services to enhance the delivery experience. Users can input their location for convenient and accurate pizza delivery.
+# Order Placement
+Seamless order placement using POST requests to send order data to the API. This ensures that your order is processed efficiently and accurately.
+# Payment on Delivery
+Enjoy the convenience of paying for your order upon delivery. No need for online payments in advance.
+# Tech Stack
+React: Building the user interface and managing the application's state.
+Tailwind CSS: Styling the application with a utility-first CSS framework for a sleek and responsive design (desktop + phone optimized).
+React Router: Enabling navigation and ensuring a smooth user experience with dynamic routing.
+Redux: Managing the state of the application for a centralized and predictable data flow.
+Redux Toolkit: Simplifying Redux setup and usage for efficient state management.
+Thunks: Handling asynchronous actions, such as fetching data from the API and processing orders.
 
 <img src="project screenshots/1.png" alt="drawing"/>
 <img src="project screenshots/2.png" alt="drawing"/>
