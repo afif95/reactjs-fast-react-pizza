@@ -37,7 +37,8 @@ Enjoy the convenience of paying for your order upon delivery. No need for online
 <img src="project screenshots/10.png" alt="drawing"/>
 <img src="project screenshots/11.png" alt="drawing"/>
 <img src="project screenshots/12.png" alt="drawing"/>
-
+<img src="project screenshots/13.png" alt="drawing"/>
+<img src="project screenshots/14.png" alt="drawing"/>
 
 # Deployed App:
 https://reactjs-fast-react-pizza.netlify.app/
